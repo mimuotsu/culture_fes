@@ -1,0 +1,152 @@
+body{
+    background-color: #eeeeee;
+}
+
+
+#first{
+    color: red;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+#second{
+    color: blue;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+#third{
+    color: green;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+#fourth{
+    color: yellow;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+#fifth{
+    color: purple;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+#sixth{
+    color: orange;
+    font-weight: 600;
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: none;
+    letter-spacing: normal; /* 文字間を元に戻す */
+    white-space: normal; /* 自動で折り返し(元に戻す) */
+    filter: grayscale(100%);
+}
+
+h1{
+    padding-top: 5%;
+    padding-left: 1.1%;
+    padding-bottom: 0%;
+    font-size: 1.6vw;
+    text-decoration:underline;
+    text-decoration-color: #ffbf7f;
+    text-decoration-thickness: 0.4vw;
+    filter: grayscale(100%);
+}
+
+
+
+#headerword{
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1.7vw;
+    text-decoration: underline;
+    text-decoration-color: #ef857d;
+    text-decoration-thickness: 0.4vw;
+    transition: font-size 0.3s;
+    filter: grayscale(100%);
+}
+
+#headerword:hover{
+    font-size: 1.8vw;
+    font-weight: 600;
+    text-decoration:underline;
+    text-decoration-color: #ef857d;
+    text-decoration-thickness: 0.4vw;
+    filter: grayscale(100%);
+}
+
+
+.btn-flat-vertical-border {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 2em 2em;
+    text-decoration: none;
+    border: solid 0.4vw #668ad8;
+    color: #668ad8;
+    background: #e1f3ff;
+    transition: .4s;
+    width: 30%;
+    height: 50%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    font-size: 1.3vw;
+    filter: grayscale(100%);
+  }
+  
+.btn-flat-vertical-border:hover {
+    background: #668ad8;
+    color: #FFF;
+    filter: grayscale(100%);
+}
+
+.meansbox{
+    margin: auto;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    text-align: center;
+    border-style: dashed;
+    border-width: 0.7%;
+	border-color: #ef857d;
+    width: 57.3%;
+    filter: grayscale(100%);
+}
+
+#center img.toppage-img{
+    display: inline-block;
+    margin: auto;
+    padding-bottom: 1.1%;
+    padding-top: 0%;
+    width: 94%;
+    z-index: 1;
+    filter: grayscale(100%);
+}
